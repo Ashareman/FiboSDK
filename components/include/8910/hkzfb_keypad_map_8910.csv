@@ -1,0 +1,9 @@
+,key_in0,key_in1,key_in2,key_in3,key_in4,key_in5,key_in6,key_in7
+key_out0,,,,,KEY_MAP_OK,KEY_MAP_1,,
+key_out1,,,,,,,,
+key_out2,,,,,,,,
+key_out3,,,,,,,,
+key_out4,,,,,KEY_MAP_SOFT_L,KEY_MAP_7,,
+key_out5,,,,,KEY_MAP_SOFT_R,KEY_MAP_CANCLE,,
+key_out6,,,,,,,,
+key_out7,,,,,,,,
